@@ -4,12 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm Sandra and these are memories that my precious Grandmother Adella Florence Harris shared with me over the years. She died at the age of 82 - one year exactly after this last photo was taken of the two of us. I hope to honor her life through my feeble attempts to recount her stories.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
