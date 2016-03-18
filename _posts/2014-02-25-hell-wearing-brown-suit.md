@@ -1,4 +1,11 @@
-
+---
+layout: post
+title: Prologue: He'll Be Wearing A Brown Suit
+date: 2014-02-25 23:20
+author: sandy
+comments: true
+categories: [Stories]
+---
 Dedicated to my precious grandmother,Florence Adella Smith Harris,
 And to my children and grandchildren she prepared me to cherish:Kimberly and Ryan,Caleb, Samuel, Abby, Ethan and Myles –Her Cherokee, Scoth and Irish blood flows in your veins.</p>
 <p>Prologue…..</p>
