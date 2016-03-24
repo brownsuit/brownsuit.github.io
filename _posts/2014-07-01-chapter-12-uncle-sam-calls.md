@@ -6,7 +6,10 @@ author: sandy
 comments: true
 categories: [Stories]
 ---
-The <strong>"War to End All Wars"</strong> was going strong in Europe and “Uncle Sam” had sent out the call for more men.  Andrew’s youngest brother, Alford,  decided he would do his duty and sign up since he wasn’t married and felt someone in the family should.  None of them knew much about the reasons for the war, but the government had asked, so he answered! The family all gathered to cheer the boys at the train station in Ft. Towson and hugged and kissed him goodbye.  Andrew envied the proud look on Alford’s face as he saluted as the train moved out of the station.  “I reckon if I didn’t have a family to care for, I’d be up there with him!”  But, farmers were supposed to stay on the farm and produce for the war effort.  They were all sure it wouldn’t last long now that the “dough boys” were flooding Europe!  It was several weeks before they received his first letter, short and sweet:
+<p>
+The <strong>"War to End All Wars"</strong> was going strong in Europe and “Uncle Sam” had sent out the call for more men.  Andrew’s youngest brother, Alford,  decided he would do his duty and sign up since he wasn’t married and felt someone in the family should.  None of them knew much about the reasons for the war, but the government had asked, so he answered! The family all gathered to cheer the boys at the train station in Ft. Towson and hugged and kissed him goodbye.  Andrew envied the proud look on Alford’s face as he saluted as the train moved out of the station.  “I reckon if I didn’t have a family to care for, I’d be up there with him!”  But, farmers were supposed to stay on the farm and produce for the war effort.  They were all sure it wouldn’t last long now that the “dough boys” were flooding Europe!  
+</p>
+It was several weeks before they received his first letter, short and sweet:
 
 <em> “Don’t have much time to write, but the Captain says I must!  We’re in France!!  We hope to see “Gay Parie” before the end of the month  when  we run those Huns out!  We’re out in the countryside now.  Don’t worry about me.  I figure the enemy is running as fast as they can to stay ahead of us territory boys!!!  I love you, Mama. (s) your loving soldier son, Alford” .</em>
 
