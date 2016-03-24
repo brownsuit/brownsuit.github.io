@@ -1,6 +1,6 @@
 ---
 layout: post
-title: chapter three -  Changes
+title: Chapter three -  Changes
 date: 2014-03-26 19:53
 author: sandy
 comments: true
