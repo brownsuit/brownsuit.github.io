@@ -10,7 +10,7 @@ A few days later, Eugie rode out to their place to visit. She brought Florence a
 
 Andrew thought it would be a fine idea for Florence to spend a few days with Eugie. He knew how hard Ben's death had been for all of them -- especially Florence. Her visits with Eugie had helped her more than anything. So Florence packed a few things for her and the baby and Andrew took them into town.
 
-[caption id="attachment_90" align="alignnone" width="197"]<a href="http://brownsuit.ryan-day.com/wp-content/uploads/sites/10/2014/05/grandma-harris-and-leeo-001.jpg"><img class="wp-image-90 size-medium" src="http://brownsuit.ryan-day.com/wp-content/uploads/sites/10/2014/05/grandma-harris-and-leeo-001-197x300.jpg" alt="grandma harris and leeo 001" width="197" height="300" /></a> Florence and Leeo[/caption]
+<a href="../images/grandma-harris-and-leeo-001.jpg"><img class="wp-image-90 size-medium" src="../images/grandma-harris-and-leeo-001-197x300.jpg" alt="grandma harris and leeo 001" width="197" height="300" /></a> Florence and Leeo[/caption]
 
 <strong>Florence and Leeo</strong>
 
