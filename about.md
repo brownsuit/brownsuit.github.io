@@ -4,5 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm Sandra and these are memories that my precious Grandmother Adella Florence Harris shared with me over the years. She died at the age of 82 - one year exactly after this last photo was taken of the two of us. I hope to honor her life through my feeble attempts to recount her stories.
+I'm Sandra and these are memories that my precious Grandmother Adella Florence Harris shared with me over the years. 
+<img src="../images/mom_and_ggma2.jpg" alt="Sandy and Adella" width="196" height="300"  />
+She died at the age of 82 - one year exactly after this last photo was taken of the two of us. I hope to honor her life through my feeble attempts to recount her stories.
 
