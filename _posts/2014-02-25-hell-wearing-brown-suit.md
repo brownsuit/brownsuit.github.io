@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title: Prologue: He'll Be Wearing A Brown Suit
@@ -5,6 +6,7 @@ date: 2014-02-25 23:20
 author: sandy
 comments: true
 categories: [Stories]
+excerpt_separator: <!--more-->
 ---
 <p>Dedicated to my precious grandmother,<br />
 Florence Adella Smith Harris,<br />
